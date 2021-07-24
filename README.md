@@ -51,7 +51,7 @@
 >Run below command in termux
 >  `vncserver -localhost yes`
     
->Open VNC viewer and add new server using  `+`  button type `localhost:1` for host and for Name type anything. Let's say `Ubuntu`
+>Open VNC viewer and add new server using  `+`  button type `localhost:1` for Address and for Name type anything. Let's say `Ubuntu`
 >
 >Press `connect` button then it will ask for password. so type that you have given. In my case it is `android`
 >
