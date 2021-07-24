@@ -27,7 +27,7 @@
 >After installation it will ask for create vncpassword. Type anything that you want. For me it is`android`
 
 >Start your ubuntu using command
->`./start-ubuntu.sh`
+>`./start-ubuntu20.sh`
 >
 >you will be able to see ubuntu terminal path followed by `#` in termux
 
